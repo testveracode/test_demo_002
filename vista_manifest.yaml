@@ -4,7 +4,7 @@ repository:
   name: "test_demo_002"
   full_name: "testveracode/test_demo_002"
   branch: "test_br"
-  commit_sha: "7d55644bfe56898e86295586e5ee63aa8a6642dd"
+  commit_sha: "93ffe18526af658e2678d9c875aff9ca429c6159"
 
 business_application:
   name: "Payments"
@@ -18,4 +18,4 @@ veracode:
 App sec platform:
   managed: true
   generated_by: "App sec platform - context-resolver"
-  generated_at: "2026-06-22T20:51:05.391Z"
+  generated_at: "2026-06-22T20:54:04.141Z"
